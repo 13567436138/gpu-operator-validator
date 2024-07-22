@@ -1,1 +1,1 @@
-FROM nvcr.io/nvidia/cloud-native/gpu-operator-validator:devel-ubi8
+FROM nvcr.io/nvidia/cloud-native/gpu-operator-validator:v22.9.0
